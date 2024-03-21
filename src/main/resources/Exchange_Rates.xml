@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <GOLD>0</GOLD>
+  <NAME_>Наименование</NAME_>
+  <CODE>Код</CODE>
+  <RATIO>За единица валута/злато</RATIO>
+  <REVERSERATE>Обратен курс: за един лев</REVERSERATE>
+  <RATE>Лева (BGN)</RATE>
+  <EXTRAINFO>Забележка: Валутните курсове се определят на основание чл. 12 от Валутния закон и се използват за целите, предвидени по закон.&lt;br /&gt;* Поради ситуацията на международните финансови пазари Българската народна банка (БНБ) не може да определи референтен курс на българския лев към руската рубла, който да е представителен за пазарните условия. Във връзка с това БНБ преустановява временно публикуването на курс на българския лев към руската рубла, докато пазарните условия не се нормализират. Последният курс на българския лев към руската рубла е публикуван на 1 март 2022 г.</EXTRAINFO>
+  <CURR_DATE>Date</CURR_DATE>
+  <TITLE>Курсове на българския лев към отделни чуждестранни валути и цена на златото, валидни за 19.03.2024</TITLE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Австралийски долар</NAME_>
+  <CODE>AUD</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.851354</REVERSERATE>
+  <RATE>1.1746</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Бразилски реал</NAME_>
+  <CODE>BRL</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>2.80014</REVERSERATE>
+  <RATE>3.57125</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Канадски долар</NAME_>
+  <CODE>CAD</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.755025</REVERSERATE>
+  <RATE>1.32446</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Швейцарски франк</NAME_>
+  <CODE>CHF</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.492373</REVERSERATE>
+  <RATE>2.03098</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Китайски ренминби юан</NAME_>
+  <CODE>CNY</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>3.99524</REVERSERATE>
+  <RATE>2.50298</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Чешка крона</NAME_>
+  <CODE>CZK</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>12.9193</REVERSERATE>
+  <RATE>7.74034</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Датска крона</NAME_>
+  <CODE>DKK</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>3.81275</REVERSERATE>
+  <RATE>2.62278</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Британска лира</NAME_>
+  <CODE>GBP</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.436874</REVERSERATE>
+  <RATE>2.28899</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Хонконгски  долар</NAME_>
+  <CODE>HKD</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>4.34097</REVERSERATE>
+  <RATE>2.30363</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Унгарски форинт</NAME_>
+  <CODE>HUF</CODE>
+  <RATIO>1000</RATIO>
+  <REVERSERATE>201.705</REVERSERATE>
+  <RATE>4.95774</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Индонезийска рупия</NAME_>
+  <CODE>IDR</CODE>
+  <RATIO>10000</RATIO>
+  <REVERSERATE>8737.75</REVERSERATE>
+  <RATE>1.14446</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Израелски шекел</NAME_>
+  <CODE>ILS</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>2.0352</REVERSERATE>
+  <RATE>4.91353</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Индийска рупия</NAME_>
+  <CODE>INR</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>46.0706</REVERSERATE>
+  <RATE>2.17058</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Исландска крона</NAME_>
+  <CODE>ISK</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>76.1313</REVERSERATE>
+  <RATE>1.31352</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Японска йена</NAME_>
+  <CODE>JPY</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>83.5296</REVERSERATE>
+  <RATE>1.19718</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Южнокорейски вон</NAME_>
+  <CODE>KRW</CODE>
+  <RATIO>1000</RATIO>
+  <REVERSERATE>743.052</REVERSERATE>
+  <RATE>1.3458</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Мексиканско песо</NAME_>
+  <CODE>MXN</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>9.37585</REVERSERATE>
+  <RATE>1.06657</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Малайзийски рингит</NAME_>
+  <CODE>MYR</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>2.62661</REVERSERATE>
+  <RATE>3.80719</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Норвежка крона</NAME_>
+  <CODE>NOK</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>5.93021</REVERSERATE>
+  <RATE>1.68628</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Новозеландски долар</NAME_>
+  <CODE>NZD</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.917154</REVERSERATE>
+  <RATE>1.09033</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Филипинско песо</NAME_>
+  <CODE>PHP</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>31.0462</REVERSERATE>
+  <RATE>3.22101</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Полска злота</NAME_>
+  <CODE>PLN</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>2.20929</REVERSERATE>
+  <RATE>4.52634</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Румънска лея</NAME_>
+  <CODE>RON</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>2.54327</REVERSERATE>
+  <RATE>3.93195</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Руска рубла *</NAME_>
+  <CODE>RUB</CODE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>1</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Шведска крона</NAME_>
+  <CODE>SEK</CODE>
+  <RATIO>10</RATIO>
+  <REVERSERATE>5.80137</REVERSERATE>
+  <RATE>1.72373</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Сингапурски долар</NAME_>
+  <CODE>SGD</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.744696</REVERSERATE>
+  <RATE>1.34283</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Тайландски бат</NAME_>
+  <CODE>THB</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>20.0171</REVERSERATE>
+  <RATE>4.99573</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Турска лира</NAME_>
+  <CODE>TRY</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>17.9492</REVERSERATE>
+  <RATE>5.57128</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Щатски долар</NAME_>
+  <CODE>USD</CODE>
+  <RATIO>1</RATIO>
+  <REVERSERATE>0.554957</REVERSERATE>
+  <RATE>1.80194</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>1</GOLD>
+  <NAME_>Южноафрикански ранд</NAME_>
+  <CODE>ZAR</CODE>
+  <RATIO>100</RATIO>
+  <REVERSERATE>10.5041</REVERSERATE>
+  <RATE>9.52011</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+ <ROW>
+  <GOLD>2</GOLD>
+  <NAME_>Злато (в трой унции)</NAME_>
+  <CODE>XAU</CODE>
+  <RATIO>1</RATIO>
+  <RATE>3880.41</RATE>
+  <CURR_DATE>19.03.2024</CURR_DATE>
+  <F_STAR>0</F_STAR>
+ </ROW>
+</ROWSET>
