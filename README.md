@@ -38,6 +38,7 @@ When we write the new currencies in the tables, firstly we delete the old ones a
 
 [<img align="left" alt="linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/valentin-vasilev-849a8b1a6/
 [java]: https://www.java.com/en/
 [git]: https://git-scm.com/
 [github]: https://github.com/
