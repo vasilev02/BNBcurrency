@@ -5,7 +5,7 @@ Microservice application to get all world currencies and make a connection betwe
 ## Project summary <img align="left" alt="linkedin" width="30px" src="https://i.pinimg.com/originals/1b/37/a3/1b37a31607ae30bf0fd3cf73f6009447.png" />
 
 Microservice with REST endpoint – “/download-currencies”. This endpoint can be hit numerous times everyday. When the endpoint being hit, we need to get the lastest information about all currencies from BNB in xml format. The data need to be saved in PostgreSql table and to send
-this inforamtion through websocket in JSON format so this to happen wee need this to be also websocket server. The currencies need to be saved with the bulgarien and endlish names.
+this information through websocket in JSON format so, this to happen we need this to be also websocket server. The currencies need to be saved with the bulgarian and english names.
 We need to create second service which reads the data and write it into another db table.
 
 ## Usage
