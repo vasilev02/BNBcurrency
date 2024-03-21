@@ -18,7 +18,7 @@ When we write the new currencies in the tables, firstly we delete the old ones a
 
 ## Languages and tools
 
-[<img align="left" alt="linkedin" width="50px" src="[https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)" />][java]
+[<img align="left" alt="linkedin" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw08hEJFk-9vylEl73mn3Ig4&ust=1711116354625000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiyoqXDhYUDFQAAAAAdAAAAABAI" />][java]
 [<img align="left" alt="linkedin" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png" />][git]
 [<img align="left" alt="linkedin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />][github]
 
@@ -38,6 +38,6 @@ When we write the new currencies in the tables, firstly we delete the old ones a
 
 [<img align="left" alt="linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />][linkedin]
 
-[java]: https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png/
+[java]: https://www.java.com/en/
 [git]: https://git-scm.com/
 [github]: https://github.com/
