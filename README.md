@@ -1,6 +1,6 @@
 # BNB currency
 
-Microservice application to get all world currencies and make a connection between client and server websocket
+Microservice application to get all world currencies and make a connection between client and server websocket.
 
 ## Project summary <img align="left" alt="linkedin" width="30px" src="https://i.pinimg.com/originals/1b/37/a3/1b37a31607ae30bf0fd3cf73f6009447.png" />
 
@@ -18,7 +18,7 @@ When we write the new currencies in the tables, firstly we delete the old ones a
 
 ## Languages and tools
 
-[<img align="left" alt="linkedin" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png" />][java]
+[<img align="left" alt="linkedin" width="50px" src="[https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)" />][java]
 [<img align="left" alt="linkedin" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png" />][git]
 [<img align="left" alt="linkedin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />][github]
 
@@ -38,6 +38,6 @@ When we write the new currencies in the tables, firstly we delete the old ones a
 
 [<img align="left" alt="linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />][linkedin]
 
-[java]: https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png
+[java]: https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png/
 [git]: https://git-scm.com/
 [github]: https://github.com/
