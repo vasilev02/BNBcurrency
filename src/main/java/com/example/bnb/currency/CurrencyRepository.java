@@ -11,12 +11,10 @@ import org.springframework.transaction.annotation.Transactional;
 public interface CurrencyRepository extends JpaRepository<Currency, Long> {
 
     @Modifying
-    @Transactional
     @Query(value = "DELETE FROM Currency")
     void deleteAllData();
 
     @Modifying
-    @Transactional
     @Query(value = "ALTER SEQUENCE currency_id_seq RESTART WITH 1", nativeQuery = true)
     void resetIdSequence();
 }

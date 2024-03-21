@@ -7,16 +7,14 @@ import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 @Repository
+@Transactional
 public interface CurrencyServerRepository extends JpaRepository<CurrencyFromServer, Long> {
 
     @Modifying
-    @Transactional
     @Query(value = "DELETE FROM CurrencyFromServer")
     void deleteAllData();
 
     @Modifying
-    @Transactional
     @Query(value = "ALTER SEQUENCE currencyfromserver_id_seq RESTART WITH 1", nativeQuery = true)
     void resetIdSequence();
-
 }
