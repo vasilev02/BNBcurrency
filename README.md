@@ -21,7 +21,7 @@ After that we start the BnbServer. Which will create our server - BnbServerEndop
 <br/>
 <img width="600" alt="Screenshot 2024-03-21 at 15 35 34" src="https://github.com/vasilev02/BNBcurrency/assets/59262958/f5b5a066-26d0-42cb-a474-954acded7388">
 <br/>
-We start our BnbClientEndpoint and we type yes if we want to get the info about currencies. Any other key will close the connection.
+We start our BnbClientEndpoint and we type yes the BnbServerEndopint will create a post request to – `http://localhost:8080/add-currencies` which will be handled by controller. If we want to get the info about currencies. Any other key will close the connection.
 <br/>
 <img width="600" alt="Screenshot 2024-03-21 at 15 35 39" src="https://github.com/vasilev02/BNBcurrency/assets/59262958/7704a188-6a66-4d23-8e39-311b4ef778d1">
 <br/>
